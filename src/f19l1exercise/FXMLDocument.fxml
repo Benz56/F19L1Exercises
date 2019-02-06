@@ -33,7 +33,7 @@
                </children>
             </AnchorPane>
          </content></Tab>
-    <Tab text="Untitled Tab 2">
+    <Tab text="Shapes">
          <content>
             <AnchorPane prefHeight="200.0" prefWidth="200.0">
                <children>
