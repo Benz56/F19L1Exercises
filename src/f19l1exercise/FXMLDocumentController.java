@@ -64,7 +64,6 @@ public class FXMLDocumentController implements Initializable {
         shape.getToggles().get(1).setUserData(ShapeFacade.SHAPES.RECTANGLE);
         shape.getToggles().get(2).setUserData(ShapeFacade.SHAPES.CIRCLE);
         shape.getToggles().get(3).setUserData(ShapeFacade.SHAPES.SQUERE);
-        System.out.println(shape.getToggles());
     }
 
     @FXML
